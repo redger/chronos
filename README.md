@@ -1,4 +1,4 @@
-A JavaScript implementation of the algorithms described in
+A JavaScript implementation of the algorithms described in:
 
     Edward M. Reingold and Nachum Dershowitz
     Calendrical Calculations
@@ -6,4 +6,4 @@ A JavaScript implementation of the algorithms described in
     3rd edition (December 10, 2007)
     ISBN 978-0-521-88540-9
 
-For a Pyrhon version, see [pycalcal](https://github.com/espinielli/pycalcal)
+For a Python version, see [pycalcal](https://github.com/espinielli/pycalcal)
